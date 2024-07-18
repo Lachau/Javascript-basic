@@ -1,1 +1,0 @@
-console.log("Emb Javascript to a HTML file")
